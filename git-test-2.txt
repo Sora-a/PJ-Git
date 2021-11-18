@@ -1,0 +1,11 @@
+git-test-2.txt
+
+git status
+
+git diff
+
+git diff HEAD
+git push
+git diff HEAD
+
+git add .

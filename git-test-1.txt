@@ -1,0 +1,5 @@
+git rm git-test-1.txt
+
+git status
+
+git diff
